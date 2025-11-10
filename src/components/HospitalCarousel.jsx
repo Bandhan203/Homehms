@@ -4,6 +4,12 @@ import "react-responsive-carousel/lib/styles/carousel.min.css";
 
 const hospitalImages = [
   {
+    src: "/hospital-images/WhatsApp Image 2025-11-10 at 12.06.45 PM.jpeg",
+    alt: "Medical Facility",
+    caption: "Modern Medical Facility",
+    description: "State-of-the-art equipment"
+  },
+  {
     src: "/hospital-images/WhatsApp Image 2025-11-10 at 12.06.37 PM.jpeg",
     alt: "Hospital Facility",
     caption: "State-of-the-Art Hospital Facility",
@@ -80,12 +86,6 @@ const hospitalImages = [
     alt: "Patient Services",
     caption: "Patient-Centered Services",
     description: "Caring for your wellbeing"
-  },
-  {
-    src: "/hospital-images/WhatsApp Image 2025-11-10 at 12.06.45 PM.jpeg",
-    alt: "Medical Facility",
-    caption: "Modern Medical Facility",
-    description: "State-of-the-art equipment"
   },
   {
     src: "/hospital-images/WhatsApp Image 2025-11-10 at 12.06.48 PM.jpeg",

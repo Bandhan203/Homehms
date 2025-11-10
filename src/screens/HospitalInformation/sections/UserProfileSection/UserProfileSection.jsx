@@ -189,7 +189,7 @@ export const UserProfileSection = () => {
 
       <div className="flex flex-col items-start gap-12 w-full">
         <h2 className="[font-family:'Inter',Helvetica] font-bold text-[#002355] text-3xl text-center tracking-[0] leading-9 w-full">
-          Why Choose MediCore HIS
+          Why Choose SDSH
         </h2>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 w-full">
@@ -213,7 +213,7 @@ export const UserProfileSection = () => {
         </div>
       </div>
 
-      <div className="flex flex-col items-center gap-8 pt-16 pb-16 px-8 md:px-12 w-full rounded-3xl bg-[linear-gradient(135deg,rgba(0,35,85,1)_0%,rgba(29,78,216,1)_50%,rgba(37,99,235,1)_100%)] shadow-2xl">
+      {/* <div className="flex flex-col items-center gap-8 pt-16 pb-16 px-8 md:px-12 w-full rounded-3xl bg-[linear-gradient(135deg,rgba(0,35,85,1)_0%,rgba(29,78,216,1)_50%,rgba(37,99,235,1)_100%)] shadow-2xl">
         <h2 className="[font-family:'Inter',Helvetica] font-bold text-white text-3xl md:text-4xl lg:text-5xl text-center tracking-[0] leading-tight max-w-4xl">
           Ready to Transform Your Hospital?
         </h2>
@@ -241,7 +241,7 @@ export const UserProfileSection = () => {
             </span>
           </Button>
         </div>
-      </div>
+      </div> */}
     </section>
   );
 };
