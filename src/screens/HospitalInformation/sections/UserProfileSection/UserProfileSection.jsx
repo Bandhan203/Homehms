@@ -102,15 +102,13 @@ export const UserProfileSection = () => {
     <section className="flex flex-col items-start gap-16 pt-16 px-8 w-full">
       <header className="flex flex-col items-center gap-8 w-full">
         <h1 className="[font-family:'Inter',Helvetica] font-bold text-[#002355] text-4xl text-center tracking-[0] leading-10">
-          Complete Hospital Management Solution
+          Sonagazi Diabetes & Specialized Hospital
         </h1>
 
         <p className="[font-family:'Inter',Helvetica] font-normal text-[#495565] text-lg text-center tracking-[0] leading-[29.2px] max-w-[896px]">
-          MediCore Hospital Information System provides consultations,
-          diagnostics, and treatment services through highly qualified
-          professionals. Our comprehensive platform integrates all aspects of
-          hospital operations under one unified system, ensuring seamless
-          workflow and exceptional patient care.
+        SDSH Hospital delivers exceptional healthcare through advanced medical expertise and compassionate service. Our integrated hospital management system connects every department—from diagnostics and treatment to patient records and administration—ensuring efficient coordination, reliable data access, and superior patient outcomes. With a focus on innovation and care, SDSH is dedicated to improving lives through precision, technology, and trust.
+
+
         </p>
       </header>
 

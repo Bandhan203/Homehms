@@ -13,7 +13,7 @@ export const MainContentSection = () => {
     <nav className="flex w-full items-center justify-between px-[66.5px] py-3 bg-[#002355]">
       <div className="flex items-center">
         <p className="[font-family:'Inter',Helvetica] font-normal text-white text-sm tracking-[0] leading-5 whitespace-nowrap">
-          Welcome to MediCore Hospital Information System
+          Welcome to Sonagazi Diabetes & Specialized Hospital
         </p>
       </div>
 

@@ -136,7 +136,7 @@ export const SiteFooterSection = () => {
 
         <div className="flex flex-col md:flex-row w-full pt-8 border-t border-gray-700 items-center justify-between gap-4">
           <div className="[font-family:'Inter',Helvetica] font-normal text-gray-400 text-sm leading-5">
-            © Copyright 2025 SDSH. All rights reserved. Tecnical Partner: <a href="https://www.codetreebd.com" target="_blank" className="text-[#44c7f4] hover:underline">CODETREE</a>.
+            © Copyright 2025 SDSH. All rights reserved. Technology Partner: <a href="https://www.codetreebd.com" target="_blank" className="text-[#44c7f4] hover:underline">CODETREE</a>.
           </div>
 
           <div className="flex items-center gap-4">
