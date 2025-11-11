@@ -28,11 +28,7 @@ const locationInfo = [
 const contactInfo = [
   {
     icon: MailIcon,
-    text: "info@sdsh.com",
-  },
-  {
-    icon: PhoneIcon,
-    text: "10678 (24/7 Support)",
+    text: "info@sdshospital.org",
   },
   {
     icon: MapPinIcon,
@@ -52,10 +48,10 @@ export const SiteFooterSection = () => {
                 </div>
 
                 <div className="flex flex-col">
-                  <div className="[font-family:'Inter',Helvetica] font-bold text-white text-2xl md:text-xl leading-7">
+                  {/* <div className="[font-family:'Inter',Helvetica] font-bold text-white text-2xl md:text-xl leading-7">
                     SDSH
-                  </div>
-                  <div className="text-gray-400 text-sm leading-5 [font-family:'Inter',Helvetica] font-normal">
+                  </div> */}
+                  <div className="text-white text-sm leading-5 [font-family:'Inter',Helvetica] font-normal">
                     Sonagazi Diabetes & Specialized Hospital
                   </div>
                 </div>
